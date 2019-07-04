@@ -2,6 +2,7 @@
 date = "07-03-2019"
 title = "About me"
 +++
+
 ![image][1]
 
 Matthew is a Northern New Mexican, born and raised. He is also a self-professed rural gay. Professionally, he worked as a microbiologist throughout his academic career where his research revolved around microbe-mineral interactions, microbial mat ecology, and microbial ‘omics. After dropping out of his PhD program, Matthew moved back the U.S. Southwest where he learned how to weave, and stitch colcha embroidery. Matthew is a 4th generation weaver and is currently working in Española, New Mexico. 
