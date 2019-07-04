@@ -2,7 +2,7 @@
 image = "img/work001.jpg"
 showonlyimage = true
 draft = false
-date = "2016-11-05T19:53:42+05:30"
+date = "07-04-2019"
 title = "This is where I am from"
 weight = 1
 +++
