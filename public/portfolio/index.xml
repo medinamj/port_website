@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Matthew Medina</title>
+    <link>https://matthewmedina.com/portfolio/</link>
+    <description>Recent content in Portfolios on Matthew Medina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://matthewmedina.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is where I&#39;m from</title>
+      <link>https://matthewmedina.com/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work1/</guid>
+      <description>25 cm x 8 cm | cotton + tree bark (species)</description>
+    </item>
+    
+    <item>
+      <title>sock</title>
+      <link>https://matthewmedina.com/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work2/</guid>
+      <description>XX cm x XX cm | wool</description>
+    </item>
+    
+    <item>
+      <title>untitled</title>
+      <link>https://matthewmedina.com/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work3/</guid>
+      <description>XX cm x XX cm | wool</description>
+    </item>
+    
+    <item>
+      <title>Layers of Aztlán</title>
+      <link>https://matthewmedina.com/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work4/</guid>
+      <description>27 cm x 27 cm | linen + cotton</description>
+    </item>
+    
+    <item>
+      <title>The Ditch</title>
+      <link>https://matthewmedina.com/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work5/</guid>
+      <description>31 cm x 30 cm | Churro wool + grape vine wood</description>
+    </item>
+    
+    <item>
+      <title>Vulnerability</title>
+      <link>https://matthewmedina.com/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work6/</guid>
+      <description>31 cm x 21 cm | cotton + Churro wool + grape vine wood</description>
+    </item>
+    
+    <item>
+      <title>our meeting place</title>
+      <link>https://matthewmedina.com/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://matthewmedina.com/portfolio/work7/</guid>
+      <description>94 cm x 28 cm | linen + wool + cotton</description>
+    </item>
+    
+  </channel>
+</rss>

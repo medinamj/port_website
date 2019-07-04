@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work1/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/work7/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/portfolio/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matthewmedina.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
