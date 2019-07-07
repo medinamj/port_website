@@ -12,7 +12,7 @@ title = "This is where I am from"
 weight = 1
 +++
 
-25 cm x 8 cm | cotton + tree bark fiber
+25 cm x 8 cm | cotton + tree bark fiber (Mulberry)
 
 ![image_1][1]
 
