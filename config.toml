@@ -46,7 +46,7 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Bio/Artist's statement"
+  name = "Bio"
   url = "about/"
 
   [[params.navlinks]]
