@@ -15,6 +15,6 @@ weight = 8
 
 ![image_3][3]
 
-[1]: /img/work_8/image_#.jpg
-[2]: /img/work_8/image_#.jpg
-[3]: /img/work_8/image_#.jpg
+[1]: /img/work_8/image_1.jpg
+[2]: /img/work_8/image_2.jpg
+[3]: /img/work_8/image_3.jpg
