@@ -3,7 +3,7 @@ image = "img/work007.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "The middle of nowhere"
+title = ""
 weight = 7
 +++
 
