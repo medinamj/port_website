@@ -3,7 +3,7 @@ image = "img/work002.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "remember how marijuana was used to perpetuate racism?"
+title = ""
 weight = 2
 +++
 
