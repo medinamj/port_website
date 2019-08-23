@@ -53,9 +53,6 @@ googleAnalytics = ""
   name = "Contact info"
   url = "contact/"
 
-  [[params.navlinks]]
-  name = "Resume/CV"
-  url = "resume/"
 
   [params.social]
   twitter       = "https://twitter.com/matthewmtab"
