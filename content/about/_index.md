@@ -6,6 +6,7 @@ title = "About me"
 ![image][1]
 
 #### Education
+
 * M.S. Earth and Enviornmental Science/Geomicrobiology; University of Michigan, 2017.
 * B.S. Biology; University of New Mexico, 2014.
 
