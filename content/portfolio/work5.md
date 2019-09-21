@@ -3,7 +3,7 @@ image = "img/work005.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "The ditch"
+title = "Ditch Water"
 weight = 5
 +++
 
