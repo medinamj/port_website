@@ -11,8 +11,8 @@ Matthew is a gay Xicano artist from Northern New Mexico, born and raised. Profes
 My work is heavily influenced by home space and background. I want to explore using a Spanish colonial art form (colcha embroidery) to decolonize stories and reveal the hidden histories in both queer and Xicanx cultures. 
 
 **Education:**\
-* M.S. Earth and Enviornmental Science/Geomicrobiology | University of Michigan, 2017
-* B.S. Biology | University of New Mexico, 2014
+M.S. Earth and Enviornmental Science/Geomicrobiology, University of Michigan, 2017\
+B.S. Biology, University of New Mexico, 2014
 
 
 
