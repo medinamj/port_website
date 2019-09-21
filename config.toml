@@ -1,4 +1,4 @@
-baseurl = "https://matthewmedinafiberart.netlify.com/"
+baseurl = "https://matthewmedinafiberart.com/"
 title = "Matthew Medina"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -54,5 +54,5 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  twitter       = "https://twitter.com/matthewmtab"
+  twitter       = "https://twitter.com/GaySciBoy"
 
