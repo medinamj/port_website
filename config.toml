@@ -32,18 +32,22 @@ googleAnalytics = ""
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
+      #  URL = "https://stats.matthewmedinafiberart.com"
       #  ID = "42"
       #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
+      #  domain = "www.matthewmedinafiberart.com"
       #  # Optional integrity check hash
       #  hash = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Work"
-  url = "portfolio/"
+  url = ""
   home = true
+  
+  [[params.navlinks]]
+  name = "Drawings"
+  url = "drawings/"
 
   [[params.navlinks]]
   name = "Bio"
