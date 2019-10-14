@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "07-01-2019"
 title = "Ditch Water"
-weight = 5
+weight = 4
 +++
 
 31 cm x 30 cm | Churro wool + grape vine wood
