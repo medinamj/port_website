@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "06-29-2019"
 title = "Sun"
-weight = 6
+weight = 5
 +++
 
 37 cm x 15 cm | cotton + wool + wood (_Catalpa sp._) + glass
