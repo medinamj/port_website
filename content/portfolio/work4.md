@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "07-01-2019"
 title = "Layers of Aztlán"
-weight = 4
+weight = 3
 +++
 
 27 cm x 27 cm | linen + cotton
