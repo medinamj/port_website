@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "07-01-2019"
 title = "Yerba de la Negrita"
-weight = 7
+weight = 6
 +++
 
 30 cm x 25 cm | cotton + wool + wood (_Catalpa sp._)
