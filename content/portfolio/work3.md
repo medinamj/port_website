@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "06-29-2019"
 title = "A desert wasteland"
-weight = 3
+weight = 2
 +++
 
 33 cm x 16 cm | wool
