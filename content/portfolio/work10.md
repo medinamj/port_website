@@ -17,7 +17,7 @@ weight = 10
 
 ![image_4][4]
 
-[1]: /img/work_9/image_1.jpg
-[2]: /img/work_9/image_2.jpg
-[3]: /img/work_9/image_3.jpg
-[4]: /img/work_9/image_4.jpg 
+[1]: /img/work_10/image_1.jpg
+[2]: /img/work_10/image_2.jpg
+[3]: /img/work_10/image_3.jpg
+[4]: /img/work_10/image_4.jpg 
