@@ -3,9 +3,10 @@ image = "img/work004.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "Layers of Aztlán"
+title = ""
 weight = 3
 +++
+Aztlán
 
 27 cm x 27 cm | linen + cotton
 
