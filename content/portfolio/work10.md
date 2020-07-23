@@ -3,11 +3,11 @@ image = "img/work010.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "Apartment Sofa"
+title = ""
 weight = 10
 +++
 
-40 cm x 13 cm | wool + Catalpa sp. dead wood
+40 cm x 13 cm | wool + Catalpa wood
 
 ![image_1][1]
 
