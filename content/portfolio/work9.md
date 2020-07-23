@@ -6,10 +6,7 @@ date = "07-01-2019"
 title = ""
 weight = 6
 +++
-
-Yerba de la Negrita
-
-30 cm x 25 cm | cotton + wool + catalpa wood
+yerba de la negrita. 30 cm x 25 cm | cotton + wool + catalpa wood
 
 ![image_1][1]
 
