@@ -3,11 +3,11 @@ image = "img/work005.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "Ditch Water"
+title = ""
 weight = 4
 +++
 
-31 cm x 30 cm | Churro wool + grape vine wood
+31 cm x 30 cm | churro wool + grape vine wood
 
 ![image_1][1]
 
