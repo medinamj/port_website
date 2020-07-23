@@ -12,7 +12,7 @@ title = ""
 weight = 1
 +++
 
-25 cm x 8 cm | cotton + tree bark fiber (Mulberry)
+25 cm x 8 cm | cotton + mulberry fiber
 
 ![image_1][1]
 
