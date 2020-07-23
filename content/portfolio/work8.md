@@ -3,11 +3,11 @@ image = "img/work008.jpg"
 showonlyimage = true
 draft = false
 date = "06-29-2019"
-title = "Sun"
+title = ""
 weight = 5
 +++
 
-37 cm x 15 cm | cotton + wool + wood (_Catalpa sp._) + glass
+37 cm x 15 cm | cotton + wool + catalpa wood + recycled glass
 
 ![image_1][1]
 
