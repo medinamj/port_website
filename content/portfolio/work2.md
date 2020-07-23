@@ -7,9 +7,7 @@ title = ""
 weight = 2
 +++
 
-Six plants and a bug.
-
-18.5 cm x 14 cm | churro wool + catalpa wood 
+six plants and a bug. 18.5 cm x 14 cm | churro wool + catalpa wood 
 
 ![image_1][1]
 
