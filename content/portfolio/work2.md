@@ -3,11 +3,13 @@ image = "img/work002.jpg"
 showonlyimage = true
 draft = false
 date = "07-01-2019"
-title = "6 plants and a bug"
+title = ""
 weight = 2
 +++
 
-18.5 cm x 14 cm | churro wool + New Zealand natural waxed wool + northern catalpa wood 
+Six plants and a bug.
+
+18.5 cm x 14 cm | churro wool + catalpa wood 
 
 ![image_1][1]
 
