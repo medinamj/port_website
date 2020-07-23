@@ -7,7 +7,7 @@ title = ""
 weight = 10
 +++
 
-40 cm x 13 cm | wool + Catalpa wood
+40 cm x 13 cm | wool + catalpa wood
 
 ![image_1][1]
 
