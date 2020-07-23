@@ -3,7 +3,7 @@ image = "img/work003.jpg"
 showonlyimage = true
 draft = false
 date = "06-29-2019"
-title = "A desert wasteland"
+title = ""
 weight = 2
 +++
 
