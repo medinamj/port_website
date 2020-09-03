@@ -7,7 +7,7 @@ title = ""
 weight = 6
 +++
 
-31 cm x 21 cm | #### + ##### + #####
+31 cm x 21 cm | 
 
 ![image_1][1]
 
