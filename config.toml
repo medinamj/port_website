@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = ""
   copyright = "&copy;2020 MJM"
   sidebarAbout = [
-    "Portfolio of fiber art."
+    ""
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
